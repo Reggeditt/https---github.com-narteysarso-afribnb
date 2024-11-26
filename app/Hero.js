@@ -28,7 +28,7 @@ const HeroSection = () => {
         <div className="hero-bridge-item flex flex-col gap-2 justify-center items-start">
           <h3 className="text-xl font-bold text-[#F5F5F5]">What is AfriCoin?</h3>
           <p className="text-[#F5F5F5]">AfriCoin is more than a token</p>
-          <p className="text-[#F5F5F5]">it's a vision for Africa's financial independence.</p>
+          <p className="text-[#F5F5F5]">its a vision for Africas financial independence.</p>
         </div>
         <div className="divider w-1 h-[100px] bg-gray-400 rounded-full"/>
         <div className="hero-bridge-item flex flex-col gap-2">

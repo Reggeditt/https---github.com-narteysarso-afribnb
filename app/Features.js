@@ -3,7 +3,7 @@ import React from 'react'
 
 const FeaturesSection = () => {
   return (
-    <section className="p-20 bg-red-200 bg-gradient-to-b from-[#2E4E67] to-white/60 flex flex-col gap-5 justif y-center items-center">
+    <section className=" p-20 bg-red-200 bg-gradient-to-b from-[#2E4E67] to-white flex flex-col gap-5 justif y-center items-center min-h-screen">
         <h1 className="text-4xl font-bold">Core Features</h1>
         <div className="flex justify-center items-around">
           <ul>

@@ -9,3 +9,19 @@
   background-size: cover;
   background-position: center;
 }
+
+
+.why-afribnb {
+  background-image: url('/images/why.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  backdrop-filter: blur(10px);
+}
+
+.why-img {
+  background-image: url('/images/why.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
